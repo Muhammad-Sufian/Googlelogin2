@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">googleLogin2</string>
+    <string name="server_client_id">294570049394-3aqf8ba811eo5l83caumku543qejsi6g.apps.googleusercontent.com</string>
+    <!-- <string name="server_client_id">294570049394-3aqf8ba811eo5l83caumku543qejsi6g.apps.googleusercontent.com</string> -->
+</resources>
